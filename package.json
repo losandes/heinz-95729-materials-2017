@@ -7,7 +7,9 @@
     "test": "node index",
     "test:debug": "node debug index",
     "test:week1": "node week-1",
-    "debug:week1": "node debug week-1"
+    "debug:week1": "node debug week-1",
+    "test:week2": "node week-2",
+    "debug:week2": "node debug week-2"
   },
   "author": "Andy Wright <andes.collab@gmail.com> (https://github.com/losandes)",
   "license": "MIT",
