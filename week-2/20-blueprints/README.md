@@ -16,7 +16,7 @@ In this exercise, we have a Blueprint, and a function that uses that blueprint t
 
 #### Testing Your Work
 
-1. Perform the work for this exercise in the `exercise-2/exercise.js` file, in this directory.
+1. Perform the work for this exercise in the `exercise-1/exercise.js` file, in this directory.
 2. To test your work, with a terminal prompt in that directory, run: `node exercise`
 
 ## Exercise 2: Guard Clauses
@@ -50,5 +50,5 @@ Let's avoid these problems, and refactor our function to use a Blueprint instead
 
 #### Testing Your Work
 
-1. Perform the work for this exercise in the `exercise-3/exercise.js` file, in this directory.
+1. Perform the work for this exercise in the `exercise-2/exercise.js` file, in this directory.
 2. To test your work, with a terminal prompt in that directory, run: `node exercise`
