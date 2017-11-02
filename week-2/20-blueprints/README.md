@@ -19,7 +19,7 @@ In this exercise, we have a Blueprint, and a function that uses that blueprint t
 1. Perform the work for this exercise in the `exercise-2/exercise.js` file, in this directory.
 2. To test your work, with a terminal prompt in that directory, run: `node exercise`
 
-## Exercise 1: Guard Clauses
+## Exercise 2: Guard Clauses
 In exercise 2, I noted that guard clauses can make our code hard to read, and introduce unnecessary responsibilities. In this exercise, we have a function that accepts several primitive arguments, and validates them explicitly. There are so many problems with this approach:
 
 * Our function has too many responsibilities. It needs to know what properties and features it has and needs to expose. It also needs to know how to validate different properties. The latter responsibility is cumbersome, unique, and should be performed by code whose responsibility is solely to validate.
