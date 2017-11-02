@@ -1,10 +1,10 @@
-Exercise :: Writing and Leveraging Hilary Blueprints
-====================================================
+Exercise :: Writing and Leveraging Blueprints
+=============================================
 
 ## The Problem
 In programming, we often need a way to define the expectations of an object's properties, to validate a given state of an object, and to provide feedback as to that validity.
 
-There are many solutions to this problem. In this exercise, we will use [Hilary Blueprints](https://github.com/Acatar/hilaryjs/wiki/Blueprint) to define and validate object schemas.
+There are many solutions to this problem. In this exercise, we will use [Blueprints](https://github.com/losandes/polyn/wiki/Blueprint) to define and validate object schemas.
 
 
 ## Exercise 1: Guarding Against Invalid Arguments
