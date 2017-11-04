@@ -27,6 +27,9 @@ $ npm run test:week1
 
 # Run week-2 exercises
 $ npm run test:week2
+
+# Run week-3 exercises
+$ npm run test:week3
 ```
 
 To run tests one-at-a-time, execute the `exercise` with node. For example, to execute the _freezing-and-sealing_ exercise, you can execute it from this directory:
@@ -54,6 +57,9 @@ $ npm run debug:week1
 
 # Run week-2 exercises
 $ npm run debug:week2
+
+# Run week-3 exercises
+$ npm run debug:week3
 ```
 
 #### Adding breakpoints and evaluating state with REPL

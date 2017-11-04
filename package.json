@@ -9,7 +9,9 @@
     "test:week1": "node week-1",
     "debug:week1": "node debug week-1",
     "test:week2": "node week-2",
-    "debug:week2": "node debug week-2"
+    "debug:week2": "node debug week-2",
+    "test:week3": "node week-3",
+    "debug:week3": "node debug week-3"
   },
   "author": "Andy Wright <andes.collab@gmail.com> (https://github.com/losandes)",
   "license": "MIT",
